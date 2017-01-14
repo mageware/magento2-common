@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * See LICENSE.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <mageware_common>
+            <notification>
+                <enabled>1</enabled>
+            </notification>
+        </mageware_common>
+    </default>
+</config>
